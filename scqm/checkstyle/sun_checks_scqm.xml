@@ -167,6 +167,21 @@
         <module name="TodoComment"/>
         <module name="UpperEll"/>
 
+
+
+        <module name="BooleanExpressionComplexity">
+            <property name="max" value="-1"/>
+        </module>
+        <module name="CyclomaticComplexity">
+            <property name="max" value="-1"/>
+        </module>
+        <module name="NPathComplexity">
+            <property name="max" value="-1"/>
+        </module>
+        <module name="JavaNCSS">
+            <property name="methodMaximum" value="-1"/>
+        </module>
+
     </module>
 
 </module>
