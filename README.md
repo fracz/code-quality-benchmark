@@ -1,6 +1,6 @@
-# Code Quality Benchmark
+# Source Code Quality Benchmark
 
-This repository contains 645 examples of better and worse code for
+This repository contains 645 examples of better and worse Java code for
 testing of you source code quality metrics.
 
 This set is a result of experiment conducted with the platform
