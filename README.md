@@ -10,4 +10,4 @@ quality.
 
 The experiment details, data origin and the methodology
 that stands behind collecting this dataset is described
-in detail in the PhD disseration: TBA.
+in detail in the PhD disseration: https://fracz.github.io/phd/fracz.pdf
